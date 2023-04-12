@@ -1,5 +1,5 @@
 const Games = () => {
-  return <div>fhdjsjkfdshfkjs</div>;
+  return <div>1game</div>;
 };
 
 export default Games;
